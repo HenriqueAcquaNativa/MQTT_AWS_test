@@ -3,6 +3,11 @@
 ## Introduction
 This guide explains how to connect your ESP8266/ESP32 device to AWS IoT Core using X.509 certificate authentication. The code has been optimized for better performance and security, following AWS IoT best practices.
 
+## Helpful References
+For additional tutorials and video guides, check these resources:
+- [Video Tutorial: Connecting ESP8266 to AWS IoT](https://www.youtube.com/watch?v=28FS2qix2u4)
+- [Step-by-Step Guide: NodeMCU with AWS IoT Core](https://electronicsinnovation.com/how-to-connect-nodemcu-esp8266-with-aws-iot-core-using-arduino-ide-mqtt/)
+
 ## Development Environment
 **IDE Used**: Arduino IDE 1.8.10  
 **File Upload Plugin**: ESP8266FS (for uploading certificates to ESP8266/ESP32 flash memory)  
@@ -112,4 +117,5 @@ free(ptr);
 - [AWS IoT Core Guide](https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 - [ESP8266 Documentation](https://arduino-esp8266.readthedocs.io/en/latest/)
 - [AWS Official Examples](https://github.com/aws-samples/aws-iot-esp8266-examples)
-- [Electronics Innovation] (https://www.youtube.com/watch?v=28FS2qix2u4 ; https://electronicsinnovation.com/how-to-connect-nodemcu-esp8266-with-aws-iot-core-using-arduino-ide-mqtt/) 
+- [Additional Video Tutorial](https://www.youtube.com/watch?v=28FS2qix2u4)
+- [NodeMCU AWS IoT Connection Guide](https://electronicsinnovation.com/how-to-connect-nodemcu-esp8266-with-aws-iot-core-using-arduino-ide-mqtt/)
