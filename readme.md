@@ -112,3 +112,4 @@ free(ptr);
 - [AWS IoT Core Guide](https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 - [ESP8266 Documentation](https://arduino-esp8266.readthedocs.io/en/latest/)
 - [AWS Official Examples](https://github.com/aws-samples/aws-iot-esp8266-examples)
+- [Electronics Innovation] (https://www.youtube.com/watch?v=28FS2qix2u4 ; https://electronicsinnovation.com/how-to-connect-nodemcu-esp8266-with-aws-iot-core-using-arduino-ide-mqtt/) 
