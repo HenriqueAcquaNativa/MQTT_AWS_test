@@ -7,13 +7,13 @@ Este guia explica como conectar seu dispositivo ESP8266/ESP32 ao AWS IoT Core us
 
 ### 1. Credenciais de WiFi
 ```cpp
-const char* ssid = "SFmall_2G";
-const char* password = "@Sfmall2022";
+const char* ssid = "xxxxxxx";
+const char* password = "xxxxxxxxx";
 ```
 
 ### 2. Endpoint AWS IoT
 ```cpp
-const char* AWS_endpoint = "aowe4e5d6ehi2-ats.iot.us-east-2.amazonaws.com";
+const char* AWS_endpoint = "xxxxxxxxxxxxxxxxxxx.amazonaws.com";
 ```
 
 ### 3. Arquivos de Certificação
